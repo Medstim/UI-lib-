@@ -34,7 +34,7 @@ Here is a complete example showing the main features of VaehzUI.
 ```lua
 --// Load Library
 local Library = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/src.lua"
+    "https://raw.githubusercontent.com/Medstim/UI-lib-/refs/heads/main/main.lua"
 ))()
 
 --// Theme
