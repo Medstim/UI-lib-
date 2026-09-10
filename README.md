@@ -28,7 +28,7 @@ A clean, Simple Roblox UI library designed for simple script GUI's.
 ---
 ## idk
 
-- Creating a Window
+- [Creating a Window](https://github.com/Medstim/UI-lib-/blob/main/README.md#creating-a-window)
 -
 -
 -
