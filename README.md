@@ -24,7 +24,7 @@ A clean, Simple Roblox UI library designed for simple script GUI's.
 - Customizable toggle key
 - Smooth UI animations
 - Executor GUI protection support
-- 
+- And more
 ---
 
 # Quick Start
