@@ -653,6 +653,34 @@ Library:Notify({
     Duration = 5,
 })
 ```
+---
+
+# Component Return Values
+
+Most components return an object that can be stored and modified later.
+
+For example:
+
+```lua
+local Toggle = MainTab:CreateToggle({
+    Name = "Example",
+    Default = false,
+})
+```
+
+You can then use:
+
+```lua
+Toggle:Set(true)
+```
+
+and:
+
+```lua
+print(Toggle:Get())
+```
+
+This makes it possible to control UI elements from other parts of your script.
 
 ---
 
@@ -856,35 +884,6 @@ Tab:CreateColorPicker(config)
 
 Tab:CreateDropdown(config)
 ```
-
----
-
-# Component Return Values
-
-Most components return an object that can be stored and modified later.
-
-For example:
-
-```lua
-local Toggle = MainTab:CreateToggle({
-    Name = "Example",
-    Default = false,
-})
-```
-
-You can then use:
-
-```lua
-Toggle:Set(true)
-```
-
-and:
-
-```lua
-print(Toggle:Get())
-```
-
-This makes it possible to control UI elements from other parts of your script.
 
 ---
 
