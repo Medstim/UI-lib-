@@ -28,16 +28,6 @@ A clean, Simple Roblox UI library designed for simple script GUI's.
 
 ---
 
-# Installation
-
-VaehzUI is distributed as a single Lua source file.
-
-You can load it using:
-
-```lua
-local Library = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/src.lua"
-))()
 ````
 
 ---
