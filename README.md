@@ -29,7 +29,7 @@ A clean, Simple Roblox UI library designed for simple script GUI's.
 ## idk
 
 - [Creating a Window](https://github.com/Medstim/UI-lib-/blob/main/README.md#creating-a-window)
-- https://github.com/Medstim/UI-lib-/blob/main/README.md#creating-tabs
+- [Creating a Tab](https://github.com/Medstim/UI-lib-/blob/main/README.md#creating-tabs)
 - 
 -
 -
