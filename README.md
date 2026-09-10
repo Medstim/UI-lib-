@@ -30,12 +30,12 @@ A clean, Simple Roblox UI library designed for simple script GUI's.
 
 - [Creating a Window](https://github.com/Medstim/UI-lib-/blob/main/README.md#creating-a-window)
 - [Creating a Tab](https://github.com/Medstim/UI-lib-/blob/main/README.md#creating-tabs)
-- 
+- [Components](https://github.com/Medstim/UI-lib-/blob/main/README.md#components)
+- [Theme Customization](https://github.com/Medstim/UI-lib-/blob/main/README.md#theme-customization)
+- [Complete API](https://github.com/Medstim/UI-lib-/blob/main/README.md#complete-api)
+- [Multiple Examples](https://github.com/Medstim/UI-lib-/blob/main/README.md#example-state-pattern)
 -
--
--
--
--
+- [Organization](https://github.com/Medstim/UI-lib-/blob/main/README.md#recommended-organization)
 ---
 # Quick Start
 
