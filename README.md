@@ -38,7 +38,7 @@ A clean, Simple Roblox UI library designed for simple script GUI's.
 ---
 # Quick Start
 
-Here is a complete example showing the main features of VaehzUI.
+Here is a complete example showing the main features of the Simple lib.
 
 ```lua
 --// Load Library
