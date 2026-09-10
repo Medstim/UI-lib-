@@ -1,4 +1,4 @@
-# Vaehz
+# Vaehz's Simple lib - [Documentation]
 
 A clean, Simple Roblox UI library designed for simple script GUI's.
 
