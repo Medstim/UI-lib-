@@ -16,7 +16,7 @@ local httpRequest = (syn and syn.request) or (http and http.request) or http_req
 
 local DefaultTheme = {
 	Background = Color3.fromRGB(16, 16, 16),
-	Secondary = Color3.fromRGB(27, 27, 27),
+	Secondary = Color3.fromRGB(27, 27, 27), -- Secondary Background color
 
 	Element = Color3.fromRGB(34, 34, 34),
 	ElementHover = Color3.fromRGB(42, 42, 42),
@@ -28,7 +28,7 @@ local DefaultTheme = {
 	StrokeDim = Color3.fromRGB(65, 65, 65),
 
 	Text = Color3.fromRGB(255, 255, 255),
-	SubText = Color3.fromRGB(175, 175, 175),
+	SubText = Color3.fromRGB(175, 175, 175), -- Secondary Text color
 
 	Warning = Color3.fromRGB(255, 190, 70),
 	Accent = Color3.fromRGB(100, 160, 255),
